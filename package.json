@@ -1,10 +1,14 @@
 {
   "name": "eslint-config-marcel",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Personal ESLint settings, which can be used by anyone.",
   "repository": {
     "type": "git",
     "url": "https://github.com/mkloubert/eslint-config-marcel"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://marcel.coffee/"
   },
   "author": "Marcel Joachim Kloubert",
   "license": "MIT",
