@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-marcel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Personal ESLint settings, which can be used by anyone.",
   "repository": {
     "type": "git",
@@ -43,7 +43,7 @@
     "ts",
     "tsc"
   ],
-  "devDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "5.21.0",
     "@typescript-eslint/parser": "5.21.0",
     "eslint": "8.14.0",
