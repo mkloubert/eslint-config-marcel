@@ -1,6 +1,8 @@
-# eslint-config-marcel
-
 [![npm](https://img.shields.io/npm/v/eslint-config-marcel.svg)](https://www.npmjs.com/package/eslint-config-marcel)
+[![last build](https://img.shields.io/github/workflow/status/mkloubert/eslint-config-marcel/Publish)](https://github.com/mkloubert/eslint-config-marcel/actions?query=workflow%3APublish)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/mkloubert/eslint-config-marcel/pulls)
+
+# eslint-config-marcel
 
 > Personal ESLint settings, which can be (used by anyone)[http://eslint.org/docs/developer-guide/shareable-configs.html].
 
